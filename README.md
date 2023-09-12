@@ -16,4 +16,13 @@ my lessons
 2. Programming
 3. Sports
 
+---
+
+
+## What should I do?
+
+* work hard
+* learn code
+* don't stop
+
 
