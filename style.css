@@ -1,0 +1,38 @@
+h1 {color:red;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+padding-left: 35px;
+
+}
+
+p {
+    color:navy;
+    font-style: oblique;
+}
+
+article{
+    width: 480px;
+    height: 480px;
+    padding: 8px;
+    background-color: aquamarine;
+    border: 10px solid rgb(72, 178, 182);
+    margin-top: 50px;
+
+}
+
+footer{
+    width: 445px;
+    height: auto;
+    background-color: azure;
+    border: 8px solid red;
+    margin-top: 75px;
+    padding-left: 50px;
+    }
+
+section{
+    width: 480px;
+    border: 8px solid gray;
+    padding: 8px;
+    margin-top: 35px;
+
+}
