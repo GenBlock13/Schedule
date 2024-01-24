@@ -1,0 +1,43 @@
+h1 {
+    color: #335454;
+    text-shadow: 2px 5px 8px rgb(121, 223, 73);
+    text-align: center;
+    font-size: 78px;
+    font-style: italic;
+}
+
+.list ul {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    text-shadow: 0 5px 8px rebeccapurple;
+}
+
+.list li {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 400;
+    list-style: circle;
+    text-shadow: none;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    border: 3px solid grey;
+    margin: 25px;
+    padding: 15px;
+    align-self: center;
+    width: 640px;
+}
+
+.nerds {
+    width: 340px;
+    height: 240px;
+}
+
+main {
+    display: flex;
+    flex-direction: column-reverse;
+}
