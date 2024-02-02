@@ -7,14 +7,12 @@ h1 {
 }
 
 .list ul {
-    text-align: center;
     font-size: 48px;
     font-weight: 600;
     text-shadow: 0 5px 8px rebeccapurple;
 }
 
 .list li {
-    text-align: center;
     font-size: 38px;
     font-weight: 400;
     list-style: circle;
@@ -28,7 +26,6 @@ h1 {
     border: 3px solid grey;
     margin: 25px;
     padding: 15px;
-    align-self: center;
     width: 640px;
 }
 
@@ -40,4 +37,11 @@ h1 {
 main {
     display: flex;
     flex-direction: column-reverse;
+}
+h2 {
+    font-family: sans-serif;
+    font-style: normal;
+    color: tomato;
+    text-shadow: 4px 3px rgba(0, 0, 128, 0.185);
+    font-size: 58px;
 }
